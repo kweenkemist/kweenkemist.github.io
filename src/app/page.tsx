@@ -24,7 +24,7 @@ export default function Home() {
             Welcome to Kween Kemist&apos;s Regimen
           </h1>
           <p className="mt-4 text-xl text-gray-600">
-            I am pleased to promote these amazing products from GFOX international:
+            I am pleased to promote these amazing products from GFOXX International:
           </p>
 
           <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
